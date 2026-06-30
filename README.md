@@ -85,8 +85,7 @@ Syntecxhub_Sales_Performance_Dashboard/
 
 ## 📸 Dashboard Preview
 
-![Sales Dashboard](<img width="1123" height="633" alt="SuperStore_sales_ss" src="https://github.com/user-attachments/assets/b79ea30a-40d6-4dd7-b20e-936f2d5f077d" />
-)
+![Sales Dashboard](<img width="1123" height="633" alt="SuperStore_sales_ss" src="https://github.com/user-attachments/assets/b79ea30a-40d6-4dd7-b20e-936f2d5f077d" />)
 
 ---
 
