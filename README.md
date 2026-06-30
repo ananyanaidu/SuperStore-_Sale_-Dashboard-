@@ -86,7 +86,7 @@ Syntecxhub_Sales_Performance_Dashboard/
 
 ## 📸 Dashboard Preview
 
-![Sales Dashboard]<img width="1123" height="633" alt="SuperStore_sales_ss" src="https://github.com/user-attachments/assets/576f27ac-afae-4dea-a35d-885c20865612" />
+[Sales Dashboard]<img width="1123" height="633" alt="SuperStore_sales_ss" src="https://github.com/user-attachments/assets/576f27ac-afae-4dea-a35d-885c20865612" />
 
 
 
@@ -105,3 +105,4 @@ Syntecxhub_Sales_Performance_Dashboard/
 ---
 
 ## 👤 Author
+Ananya A
