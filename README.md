@@ -1,5 +1,5 @@
 
-# 📊 Sales Performance Dashboard — Syntecxhub Internship
+# 📊 SuperStore_Sales_Dashboard — Syntecxhub Internship
 
 > **Data Analyst Internship | Week 1 | Syntecxhub**
 
