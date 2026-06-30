@@ -1,4 +1,4 @@
-<img width="1123" height="633" alt="SuperStore_sales_ss" src="https://github.com/user-attachments/assets/180ed216-28d8-49e4-8c20-c8830194d53d" />
+
 # 📊 Sales Performance Dashboard — Syntecxhub Internship
 
 > **Data Analyst Internship | Week 1 | Syntecxhub**
